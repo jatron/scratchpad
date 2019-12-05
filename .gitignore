@@ -1,2 +1,8 @@
+.ipynb_checkpoints
+
 # Environments
 .cifar10_env/
+
+# cifar10_tutorial
+data/
+cifar_net.pth
