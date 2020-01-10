@@ -2,6 +2,7 @@
 
 # Environments
 .cifar10_env/
+.many_time_pad_env/
 
 # cifar10_tutorial
 data/
