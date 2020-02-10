@@ -3,6 +3,7 @@
 # Environments
 .cifar10_env/
 .investing_env/
+.jupyter_std/
 .many_time_pad_env/
 
 # cifar10_tutorial
